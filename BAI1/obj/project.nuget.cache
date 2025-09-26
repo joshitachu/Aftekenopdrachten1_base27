@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wclxvnzrGx8=",
+  "success": true,
+  "projectFilePath": "/Users/joshuakabel/Downloads/Aftekenopdrachten1_base27/BAI1/BAI1.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshuakabel/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/joshuakabel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/joshuakabel/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
